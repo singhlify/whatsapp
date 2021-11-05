@@ -11,4 +11,4 @@ This is a fully functional Whatsapp Clone. You can Sign-in to the app with your 
 ![whatsapp-login](https://user-images.githubusercontent.com/40722529/108348575-f83cbe00-7207-11eb-84ad-77ba6bd0d94f.jpg)
 
 ### Login
-![whatsapp-working](https://user-images.githubusercontent.com/40722529/108348626-08549d80-7208-11eb-9779-43f2abc3ce77.jpg)
+![github-repo-thumbnail](https://user-images.githubusercontent.com/40722529/108348626-08549d80-7208-11eb-9779-43f2abc3ce77.jpg)
